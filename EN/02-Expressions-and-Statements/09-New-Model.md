@@ -10,7 +10,7 @@
 
 
 # Problem: Calculate Speed
-[code-task title="Calculate Speed" taskId="ES-p-01" executionType="tests-execution" executionStrategy="java-code" requiresInput]
+[code-task title="Calculate Speed" taskId="NewModel-p-01" executionType="tests-execution" executionStrategy="java-code" requiresInput]
 [code-editor language=java]
 ```java
 import java.util.Scanner;
